@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+html {
+   background-color: black;
+}
+
+body {
+   color: rgb(241, 105, 105);
+   background-color: black;
+   font-family: Courier, monospace;
+}
+
